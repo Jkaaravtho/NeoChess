@@ -1,5 +1,5 @@
 COPYRIGHT © SLEEPY SLOTH'S STUDIO, 2026
-All Rights Reserved. Licensed under the GNU GPLv2.
+All Rights Reserved. Licensed under the GNU GPLv3.
 
 Support Server - https://discord.gg/2BYCgsnH7x
 
